@@ -1,6 +1,7 @@
-#PF LAB 2.
+# About writer
+This is Sanaullah from BCS-1E.
 
 
-
-# This is the test repository for PF LAB Task.
+## Repository Description
+This github repository represents the Demonstration of Github we were asked to complete for PF LAB 2.
 
