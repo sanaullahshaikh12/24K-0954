@@ -1,1 +1,3 @@
-Hi, i am Sanaullah from BCS-1E. i am from pano akil district sukkur .graduated from the excellence school and college pano akil.now study in  fast nuces karachi 
+PSEDOUCODE is high-level reperenstation of computing program .and this code is called as fake code ..
+ALGORITHM a process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+GITHUB GitHub is a web-based interface that uses Git, the open source version control software that lets multiple people make separate changes to web pages at the same time. 
