@@ -1,0 +1,9 @@
+                #INTRODUCTION TO PROGRAMMING FUNDAMENTALS
+
+Understand key terms and definitions. 
+Create pseudocode for a programming problem.
+Create a flowchart for a programming problem.
+Perform software testing for a programming problem.
+List the four categories and give examples of errors that may be encountered when using an Integrated Development Environment (IDE).
+Test an Integrated Development Environment using a Hello World program.
+Modify an existing program to meet given requirements.
